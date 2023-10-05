@@ -138,7 +138,7 @@ const TheHeader = ({ lng }) => {
 
   return (
     <Trans>
-      <div i18nkey="header" t={t}>
+      <div i18nkey="header">
     
         <div className="search-container flex items-center justify-center ml-auto">
           {/* <SearchComponent /> */}
