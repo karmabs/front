@@ -158,7 +158,7 @@ export default function AllBrands({ choose, filtered, isLoader, url }) {
                         <div className="withdrawal flex flex-wrap mt-3">
                           {brand.attributes.DepositMethods.data.map(
                             (item) => (
-                              <div className="method flex justify-center items-center">
+                              <div key={item.id} className="method flex justify-center items-center">
                                 <Image
                                   key={item.id}
                                   src={item.attributes.url}
@@ -188,7 +188,7 @@ export default function AllBrands({ choose, filtered, isLoader, url }) {
                        <div className="withdrawal flex flex-wrap mt-3">
                        {brand.attributes.WithdrawalMethods.data.map(
                          (item) => (
-                           <div className="method flex justify-center items-center">
+                           <div key={item.id} className="method flex justify-center items-center">
                              <Image
                                key={item.id}
                                src={item.attributes.url}
