@@ -104,7 +104,7 @@ const OnBrand = ({ data }) => {
     return () => {
       document.removeEventListener("click", handleDocumentClick);
     };
-  }, [isDepositPopupOpen, isWithdrawalPopupOpen]);
+  }, [isDepositPopupOpen, isWithdrawalPopupOpen, handleDocumentClick]);
 
   const toggleDepositPopup = () => {
     setDepositPopupOpen(!isDepositPopupOpen);

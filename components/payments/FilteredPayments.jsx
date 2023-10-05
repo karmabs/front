@@ -297,7 +297,7 @@ const FilteredPayments = () => {
     if (foundTab) {
       setCurrentTab(foundTab.currentTab);
     }
-  }, []);
+  }, [navigateBrands]);
   
 
   const handleTabChange = (tabNumber) => {
