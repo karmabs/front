@@ -1,0 +1,242 @@
+{
+  "title": "Hi there!",
+  "to-second-page": "To second page",
+  "header.home": "Home",
+  "header.bonuses": "Bonuses ▼",
+  "header.casinos": "Casinos ▼",
+  "header.payments": "All Payments ▼",
+  "header.providers": "Game Providers ▼",
+  "header.countries": "Casinos by Country ▼",
+
+  "header.austr": "Australian Casino",
+  "header.brazil": "Brazilian Casino",
+  "header.canada": "Canadian Casino",
+  "header.finnish": "Finnish Casino",
+  "header.germany": "German Casino",
+  "header.nz": "New Zealand Casino",
+  "header.norw": "Norwegian Casino",
+  "header.polish": "Polish Casino",
+
+  "header.spins": "Free Spins",
+  "header.guides": "Guides",
+  "header.about": "About Us",
+  "header.contacts": "Contacts",
+
+  "header.homebonuses": "Bonuses",
+  "header.homecasinos": "Casinos",
+  "header.homespins": "Free Spins",
+  "header.homeguides": "Gambling Guides",
+
+  "header.nodeposit": "No Deposit Bonuses",
+  "header.exclusive": "Exclusive Bonuses",
+  "header.deposit": "Deposit Bonuses",
+  "header.welcome": "Welcome Bonuses",
+  "header.nowager": "No Wagering Bonuses",
+  "header.cryptocasinos": "Crypto Casinos",
+  "header.fastwithdrawalcasinos": "Fast Withdrawal Casinos",
+  "header.livecasinos": "Live Casinos",
+  "header.newestcasinos": "Newest Casinos",
+  "header.certifiedcasinos": "Top Certified Casinos",
+  "home.title": "Join the community of our subscribers",
+  "home.description": "Get fresh bargains and lucrative bonuses from trustworthy online casinos working in your region! Be the first one to find out where it's worth playing today!",
+  "subscribe.button": "Subscribe",
+  "subscribe.email": "Email",
+  "subscribe.players": "players subscribed",
+  "subscribe.congrats": "Congratulations! You have subscribed to the mailing list.",
+  "subscribe.error1": "Email cannot be empty",
+  "subscribe.error2": "Please enter a valid email",
+  "subscribe.text": "of the newsletters we're sending out!",
+  "subscribe.link": "See some examples",
+  "topBrands.title": "XxlCasinoList Best Choices for 2023",
+  "newBrands.title": "Latest Casino Additions 2023",
+  "button.read": "Read More",
+  "button.less": "Read Less",
+
+  "button.view": "View All Guides",
+  "button.load": "Load More Brands",
+  "button.review": "Read Review",
+  "button.play": "Play Now",
+  "reviewBrands.title1": "All meticulously reviewed online casinos",
+  "reviewBrands.description1": "We thoroughly review all existing online casinos, regardless of their preference",
+
+  "reviewBrands.question1.title": "Currently in active pursuit of fresh casino websites",
+  "reviewBrands.question1.excerpt": "Our team is constantly seeking recently",
+  "reviewBrands.question1.link": "launched casino websites for evaluation",
+  "reviewBrands.question1.excerpt2": ", aiming to provide utmost value to our visitors.",
+
+  "reviewBrands.question2.title": "The most precise details regarding each casino",
+  "reviewBrands.question2.excerpt": "We meticulously assess each casino and gather extensive information to ensure our visitors are well-informed about what to anticipate before playing",
+
+  "reviewBrands.question3.title": "Promoting responsible approach to gambling",
+  "reviewBrands.question3.excerpt": "Every casino undergoes evaluation by an impartial team, adhering to a comprehensive, data-driven, ",
+  "reviewBrands.question3.link": "and unbiased review approach",
+
+  "reviewBrands.button1": "Discover top-rated bonuses",
+  "reviewBrands.button2": "Discover top-rated casinos",
+
+  "reviewBrands.title2": "We are passionate about no deposit bonuses",
+  "reviewBrands.description2": "Our relentless efforts go into crafting the ultimate database of no deposit bonuses.",
+
+  "reviewBrands.question4.title": "Compiling promotional deals from every online casino out there",
+  "reviewBrands.question4.excerpt": "In our quest to provide the widest range of choices, we continually seek ",
+  "reviewBrands.question4.link": "fresh no deposit bonuses",
+  "reviewBrands.question4.excerpt2": " to expand our database, sourced from all existing casino websites.",
+
+  "reviewBrands.question5.title": "Creating unique and exclusive bonuses tailored exclusively for our valued visitors",
+  "reviewBrands.question5.excerpt": "In our quest to provide the widest range of choices, we continually seek fresh ",
+  "reviewBrands.question5.link": "exclusive bonuses",
+  "reviewBrands.question5.excerpt2": " features deals crafted solely for our esteemed visitors.",
+
+  "reviewBrands.question6.title": "Comprehensive and precise details regarding every bonus",
+  "reviewBrands.question6.excerpt": "In our bonus database, you'll find crucial information and terms associated with each bonus, along with clear explanations and illustrative examples.",
+  "allBrands.withLimits": "Withdrawal Limits:",
+  "allBrands.advantages": "Advantages",
+  "allBrands.depMethods": "Deposit Methods",
+  "allBrands.withMethods": "Withdrawal Methods",
+  "allBrands.restricted": "Restricted Countries",
+  "allBrands.howGet": "How to get bonus?",
+  "allBrands.activate": "Activate bonus in your casino account",
+  "filteredHome.title": "Catalog of all 2023 Online Casino Bonuses Offered",
+  "filteredHome.description": "Seeking online casino bonuses and promotions? Explore our current database featuring numerous casino bonus offers for your selection.",
+  "navigateBrands.all": "All Brands",
+  "navigateBrands.recommend": "Recommended Brands",
+  "navigateBrands.newly": "Newly Brands",
+  "navigateBrands.crypto": "Crypto Brands",
+  "navigateBrands.sports": "Top Sports Brands",
+  "previewBonuses.title": "Promoting a responsible approach to gambling",
+  "previewBonuses.excerpt": " Looking for exciting online casino bonuses and promotions? Look no further! Our extensive and regularly updated database offers a vast selection of enticing casino bonus offers that cater to all players' preferences. Whether you're into free spins, deposit bonuses, or cashback rewards, we've got you covered with the best deals available in the gambling world. Don't miss out on these exclusive offers – start exploring now and boost your gaming experience with lucrative bonuses!",
+
+  "brand.safety": "Safety Index",
+  "brand.our": "by Our Casino",
+  "brand.providers": "Game Providers:",
+  "brand.restricted": "Restricted countries:",
+  "show.all": "Show all",
+  "show.all.providers": "Show all providers",
+  "show.all.restricted": "Show all countries",
+  "license": "Licensing Authorities ",
+  "nodepositbonuses.title":
+  "Irresistible in 2023: No Deposit Casino Bonuses and Unique Bonus Codes",
+"nodepositbonuses.excerpt":
+  "Fresh in 2023: A continuously refreshed catalog of no deposit bonus deals for virtual casinos. Obtain exclusive promo codes and enjoy complimentary spins rewards.",
+
+"exclusivebonuses.title":
+  "Comprehensive Compilation of Online Casino Bonuses Accessible in 2023",
+"exclusivebonuses.excerpt":
+  "Searching for casino bonuses and promos on the web? Explore our current, well-maintained repository featuring a plethora of casino bonus propositions for your consideration.",
+
+"depositbonuses.title":
+  "Finest Casino Welcome Bonuses on Your Initial 2023 Deposit",
+"depositbonuses.excerpt":
+  "Select from a variety of top-tier introductory casino rewards and receive additional bonus funds incorporated into your initial payment. Exclusive registration incentive deals designed for fresh participants.",
+
+"welcomebonuses.title": "Welcome Bonuses 2023",
+"welcomebonuses.excerpt":
+  "If you're in search of a quality casino experience coupled with enticing bonuses, we have the perfect solution tailored for you! The welcoming bonus stands as a gesture from casinos to their fresh players, usually presented as free spins or cashback rewards. Explore our compilation of introductory bonuses from renowned online casinos, ensuring an ideal match for your preferences.",
+
+"nowagerbonuses.title": "No Wagering Casino Bonuses 2023",
+"nowagerbonuses.excerpt":
+  "Searching for no wagering bonuses? Explore our exclusive compilation of wager-free bonuses, available only at Casino.",
+
+"cryptocasinos.title":
+  "Top Cryptocurrency Betting Platforms & Bitcoin Casino Sites in 2023",
+"cryptocasinos.excerpt":
+  "  Explore our compilation of premier online casinos for Bitcoin along with betting platforms that embrace BTC and alternative cryptocurrencies as viable payment methods. Delve into impartial assessments, and pinpoint the ultimate Bitcoin casino destination tailored to your preferences.",
+
+"fastcasinos.title":
+  "2023's Swiftest Payout Casino and Betting Platforms",
+"fastcasinos.excerpt":
+  "The most advantageous aspect of rapid payout casinos is their swift and unwavering dispensation of your earnings. We've meticulously crafted this inventory to aid you in locating the supreme casinos offering expedited withdrawal processes, particularly when your earnings surge swiftly and substantially. Simply initiate a withdrawal and envisage the exhilarating possibilities for allocating those funds!",
+
+"livecasinos.title": "Premier Live Dealer Casinos of the Year 2023",
+"livecasinos.excerpt":
+  "Explore this compilation of top-notch live dealer casinos for an immersive gaming experience and discover prime online casinos hosting captivating live casino games catered to your preferences.",
+
+"newestasinos.title": "Fresh Entrants to the Online Casino Scene 2023",
+"newestasinos.excerpt":
+  "On the Hunt for Fresh 2023 Online Casino Platforms? Discover Recently Launched Casino Sites Offering Outstanding Incentives and Cutting-Edge Attributes. Constantly Refreshed for Your Exploration.",
+
+"certifiedcasinos.title": "Premier Accredited Casinos in 2023",
+"certifiedcasinos.excerpt":
+  "Gaming constitutes a substantial sector, and with the assistance of authorized internet-based casinos, you can relish your preferred pastime with serenity, assured of its oversight by official governmental bodies. Cutting-edge security protocols ensure the confidentiality of all personal data!",
+
+"filteredBonuses.title":
+  "Catalog of all 2023 Online Casino Bonuses Offered",
+"filteredBonuses.excerpt":
+  " Seeking online casino bonuses and promotions? Explore our current database featuring numerous casino bonus offers for your selection.",
+
+"filteredCasinos.title":
+  "Comprehensive Compilation of 2023 Online Casino Selection",
+"filteredCasinos.excerpt":
+  "In Search of an Online Casino? Navigate through our up-to-date repository housing a myriad of casinos awaiting your consideration.",
+
+"GuideSlotsPage.title": "Latest Casino Guides",
+"filtered.countries.title":
+"Interactive List of Online Casinos 2023: Filtering by Country",
+"filtered.countries.description":
+" Looking for the perfect online casino? Explore our interactive list for 2023, specifically designed to help you filter through an array of options based on country. Tailor your search to find the most reputable, safe, and exciting casinos available in your region.",
+"countries.title":
+"Global Online Casino Review: Top Platforms by Country",
+"countries.description":
+"Searching for the perfect online casino? Our comprehensive compilation showcases the most reliable and enticing casinos available across the globe. Here, you'll find information on lucrative bonuses, dependable customer service, and various payment methods ranging from credit cards to e-wallets. No matter where you are located, we have something to offer for every player.",
+"australia.title":
+"Australian Online Casino Overview: The Pinnacle of Gaming Down Unde",
+"australia.description":
+"Seeking an unparalleled gaming experience in Australia? Our curated list spotlights the crème de la crème of Australian online casinos. Dive into a world of generous bonuses, impeccable customer service, and diverse payment options—ranging from traditional bank transfers to modern e-wallet solutions. For those located in Australia, we offer a tailored gaming journey that's second to none.",
+"brazil.title":
+"Brazilian Online Casino Guide: Your Portal to Gaming Bliss in Brazil",
+"brazil.description":
+"Looking for a top-tier gaming experience in Brazil? Our expertly curated list highlights the most exceptional online casinos available in the Brazilian market. Explore a universe of rewarding bonuses, dependable customer service, and a myriad of payment options, from traditional bank transfers to modern digital wallets. If you're in Brazil, we've got your ultimate gaming adventure covered.",
+"canada.title":
+"Canadian Online Casino Guide: Uncovering the Best in Canadian Gaming",
+"canada.description":
+"In search of an exceptional gaming experience in Canada? Our meticulously curated list features the top online casinos available to the Canadian audience. Dive into a realm of generous bonuses, stellar customer service, and a wide array of payment options that include traditional bank transfers as well as contemporary e-wallets. If you're based in Canada, your ultimate gaming adventure awaits.",
+"finland.title":
+"Finnish Online Casino Guide: The Ultimate Gaming Experience in Finland",
+"finland.description":
+"Searching for an unparalleled gaming adventure in Finland? Our hand-picked selection showcases the finest online casinos catering to the Finnish audience. Step into a realm filled with generous bonuses, top-notch customer service, and a broad spectrum of payment methods from traditional bank transfers to modern e-wallets. If you're in Finland, your one-of-a-kind gaming journey starts here",
+"germany.title":
+"German Online Casino Guide: The Ultimate Gaming Haven in Deutschland",
+"germany.description":
+"Are you on the quest for an exceptional gaming experience in Germany? Our carefully curated list highlights the best online casinos available for the German market. Venture into a world rich with enticing bonuses, reliable customer support, and a multitude of payment options, including traditional bank transfers and contemporary e-wallets. If you're in Germany, your unparalleled gaming journey begins here",
+"nz.title":
+"New Zealand Online Casino Guide: The Ultimate Kiwi Gaming Experience",
+"nz.description":
+"Searching for an extraordinary gaming experience in New Zealand? Our rigorously curated list features the cream of the crop in online casinos available to Kiwi players. Step into a world of lavish bonuses, excellent customer service, and a plethora of payment options ranging from traditional bank transfers to cutting-edge e-wallets. For those in New Zealand, your unparalleled gaming adventure starts right here.",
+"norway.title":
+"Norwegian Online Casino Guide: The Apex of Gaming in Norway",
+"norway.description":
+"Looking for an unmatched gaming experience in Norway? Our carefully vetted list highlights the top online casinos available to Norwegian players. Enter a realm of substantial bonuses, first-rate customer support, and a wide variety of payment options from traditional bank transfers to state-of-the-art e-wallets. If you're in Norway, the ultimate gaming escapade awaits you here.",
+"poland.title":
+"Polish Online Casino Guide: The Premier Gaming Destination in Poland",
+"poland.description":
+"Seeking an unparalleled gaming experience in Poland? Our scrupulously curated list highlights the elite online casinos accessible to Polish players. Step into a world rich in lucrative bonuses, impeccable customer service, and a myriad of payment options, from traditional bank transfers to innovative e-wallet solutions. If you're in Poland, your matchless gaming journey starts here.",
+"tab.casinos": "Casinos",
+"random.brand": "Random Brand",
+"random.description":
+  "Pay attention to a random brand suggested just for you",
+"slider.title": "Reccomend brands for you",
+
+"guideSlotsHome.title1": "Online Gambling Guides",
+"guideSlotsHome.title2": "Establish a gambling budge",
+"guideSlotsHome.excerpt1":
+  "Prior to commencing any gambling session, it is imperative to establish a budget and adhere to it strictly. Ensure that the allocated amount is within your financial means, as it may not be your fortunate day and could be lost.",
+"guideSlotsHome.excerpt2":
+  "The unpredictable nature of games of chance necessitates caution. If your budget is lost, refrain from chasing your losses, as this behavior may result in further financial losses and, ultimately, lead to the development of a gambling addiction.",
+"guideSlotsHome.title3":
+  "Pay close attention to your emotions while engaging in gambling activities",
+"guideSlotsHome.excerpt3":
+  "Enjoy the entertainment of gambling while ensuring it remains enjoyable by being mindful of your emotions during play. If you detect feelings of heightened anger, frustration, or difficulty making rational decisions, it is essential to cease playing.",
+  "GuideSlotsPage.title": "Latest Casino Guides",
+  "footer.contacts": "Our Contacts:",
+  "footer.title": "Empowering iGaming Solutions",
+  "footer.description":
+    "Unlocking 15 Websites That Will Boost Your Brand to New Heights",
+  "footer.link": "Start Working With Us",
+  "footer.about":
+    "XxlCasinolist.com positions itself as an exceptional source of information about virtual gaming establishments and online gambling entertainment. All our reviews and guides are crafted in accordance with the knowledge and convictions of our independent team of experts, objectively and without any bias. Nevertheless,such assessments and notifications are provided solely for informational purposes and should not be considered legal advice or a basis for making legal decisions. Before commencing participation in your chosen casino, always ensure that you comply with all applicable legal requirements.",
+  "footer.copyright": "Copyright © 2023, xxlcasinolist.com All rights reserved."
+
+
+
+
+}
